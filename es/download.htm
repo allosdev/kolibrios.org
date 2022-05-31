@@ -1,0 +1,101 @@
+﻿<!doctype html>
+<html lang="es" onmouseup="dropdown_hide()">
+	<head>
+		<meta charset="utf-8">
+		<title>Descargas de Kolibri</title>
+		<link rel="icon" type="image/x-icon" href="../favicon.ico">
+		<meta name="description" content="Descargas de Kolibri">
+		<meta name="keywords" content="kolibri, kolibrios, колибри, colibri, operating system, assembler, калибри, fasm, alternate, open source">
+		<meta name="viewport" content="width=device-width">
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		<script src='../script.js'></script>
+	</head>
+<body onkeydown='checkkey(event)'>
+
+	<nav id="lang-dropdown">
+		<ul>
+			<li><a href='../en/download.htm'><img src='../i/fl/en.png' alt='en'>English</a></li>
+			<li><a href='../de/download.htm'><img src='../i/fl/de.png' alt='de'>Deutsch</a></li>
+			<li><a class='sel' href='download.htm'><img src='../i/fl/es.png' alt='es'>Español</a></li>
+			<li><a href='../fr/download.htm'><img src='../i/fl/fr.png' alt='fr'>Français</a></li>
+			<li><a href='../it/download.htm'><img src='../i/fl/it.png' alt='it'>Italiano</a></li>
+			<li><a href='../nl/download.htm'><img src='../i/fl/nl.png' alt='nl'>Nederlands</a></li>
+			<li><a href='../ru/download.htm'><img src='../i/fl/ru.png' alt='ru'>Русский</a></li>
+		</ul>
+    </nav>
+    
+	<nav id="menu">
+		<a href="index.htm">Kolibri</a>
+		<a href="download.htm" class='a'>Descargar</a>
+		<a href="screen.htm">Capturas de pantalla</a>
+		<a href="http://board.kolibrios.org">Foro</a>
+		<a href="http://wiki.kolibrios.org/index.php?title=Main_Page&setlang=es">Wiki</a>
+		<a href="http://websvn.kolibrios.org">Repositorio</a>
+		<a href="http://bugs.kolibrios.org" class="notrequired">Seguimiento de errores</a>
+		<button onclick="dropdown_show(this)" id="l"><img src="../i/fl/es.png" alt="es"></button>
+	</nav>
+
+
+	<div id="article" class="download">
+	<h1>Descargas de Kolibri</h1>
+		<table>
+			<tr>
+				<td width="38"><img src="../i/i_floppy.png" alt="floppy"></td>
+				<td class="description_cell">Imagen de disquete</td>
+				<td class="date_cell">31 мая 2022</td>
+				<td>
+					<a href="../eng/latest-img.7z" title="rev. 9823, 1.27 MB">English</a>
+					<a href="../rus/latest-img.7z" title="rev. 9823, 1.29 MB">Русский</a>
+					<a href="../it/latest-img.7z" title="rev. 9823, 1.27 MB">Italiano</a>
+					<a href="../sp/latest-img.7z" title="rev. 9823, 1.27 MB">Español</a>
+				</td>
+			</tr>
+			<tr>
+				<td width="38"><img src="../i/i_cd.png" alt="cd"></td>
+				<td class="description_cell">Imágen para CD (LiveCD)</td>
+				<td class="date_cell">31 мая 2022</td>
+				<td>
+					<a href="../eng/latest-iso.7z" title="rev. 9823, 39.25 MB">English</a>
+					<a href="../rus/latest-iso.7z" title="rev. 9823, 41.61 MB">Русский</a>
+					<a href="../it/latest-iso.7z" title="rev. 9823, 39.25 MB">Italiano</a>
+					<a href="../sp/latest-iso.7z" title="rev. 9823, 39.25 MB">Español</a>
+				</td>
+			</tr>
+			<tr>
+				<td width="38"><img src="../i/i_uni.png" alt="universal"></td>
+				<td class="description_cell">Imágen universal para memorias flash y discos duros</td>
+				<td class="date_cell">31 мая 2022</td>
+				<td>
+					<a href="../eng/latest-distr.7z" title="rev. 9823, 39.59 MB">English</a>
+					<a href="../rus/latest-distr.7z" title="rev. 9823, 41.96 MB">Русский</a>
+					<a href="../it/latest-distr.7z" title="rev. 9823, 39.59 MB">Italiano</a>
+					<a href="../sp/latest-distr.7z" title="rev. 9823, 39.59 MB">Español</a>
+				</td>
+			</tr>
+			<tr>
+				<td width="38"><img src="../i/i_uefi.png" alt="uefi"></td>
+				<td class="description_cell">Imagen híbrida UEFI/BIOS para Flash/HDD</td>
+				<td class="date_cell">31 мая 2022</td>
+				<td>
+					<a href="../eng/latest-raw.7z" title="rev. 9823, 40.19 MB">English</a>
+					<a href="../rus/latest-raw.7z" title="rev. 9823, 42.56 MB">Русский</a>
+					<a href="../it/latest-raw.7z" title="rev. 9823, 40.19 MB">Italiano</a>
+					<a href="../sp/latest-raw.7z" title="rev. 9823, 40.20 MB">Español</a>
+				</td>
+			</tr>
+			<tr>
+				<td><div></div></td>
+				<td colspan="3">
+					<button class="help-button" onclick="alert('Para un principiante, el LiveCD es lo mejor.\n\nEn comparación con un LiveCD, la ventaja de una imagen genérica es que puede guardar los cambios realizados en Kolibri.\n\nLa imagen híbrida incluye soporte para la tecnología UEFI, que se utiliza para iniciar el sistema en computadoras y laptops nuevas.');">¿Cuál elegir?</button>
+					<a href="//archive.kolibrios.org/es/">Versiones anteriores de Kolibri</a>
+					<a href="//builds.kolibrios.org/">Todas las imágenes</a>
+				</td>
+			</tr>
+		</table>
+
+		<p>Licencia <a href='http://www.gnu.org/licenses/gpl-2.0.html' target='_blank'>GPLv2</a>.</p>
+
+	</div>
+  <div id="footer">&copy; 2004<span>&ndash;</span>2021 KolibriOS Team</div>
+</body>
+</html>
