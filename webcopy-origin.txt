@@ -1,0 +1,260 @@
+Uri: https://builds.kolibrios.org/eng/latest-distr.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\eng\latest-distr.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/eng/latest-img.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\eng\latest-img.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/eng/latest-iso.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\eng\latest-iso.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/eng/latest-raw.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\eng\latest-raw.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/it/latest-distr.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\latest-distr.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/it/latest-img.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\latest-img.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/it/latest-iso.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\latest-iso.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/it/latest-raw.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\latest-raw.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/rus/latest-distr.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\rus\latest-distr.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/rus/latest-img.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\rus\latest-img.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/rus/latest-iso.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\rus\latest-iso.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/rus/latest-raw.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\rus\latest-raw.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/sp/latest-distr.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\sp\latest-distr.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/sp/latest-img.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\sp\latest-img.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/sp/latest-iso.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\sp\latest-iso.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://builds.kolibrios.org/sp/latest-raw.7z
+File Name: C:\Downloaded Web Sites\kolibrios.org\sp\latest-raw.7z
+Content Type: application/x-7z-compressed
+
+Uri: https://kolibrios.org/de/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\de\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/de/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\de\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/de/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\de\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/dropdown.css
+File Name: C:\Downloaded Web Sites\kolibrios.org\dropdown.css
+Content Type: text/css
+
+Uri: https://kolibrios.org/en/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\en\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/en/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\en\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/en/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\en\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/es/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\es\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/es/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\es\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/es/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\es\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/favicon.ico
+File Name: C:\Downloaded Web Sites\kolibrios.org\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kolibrios.org/fr/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\fr\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/fr/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\fr\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/fr/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\fr\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/i/banners/en.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\banners\en.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/banners/es.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\banners\es.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/banners/fr.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\banners\fr.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/banners/it.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\banners\it.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/banners/ru.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\banners\ru.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/de.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\de.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/en.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\en.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/es.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\es.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/fr.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\fr.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/it.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\it.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/nl.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\nl.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/fl/ru.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\fl\ru.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/i_cd.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\i_cd.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/i_floppy.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\i_floppy.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/i_uefi.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\i_uefi.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/i_uni.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\i_uni.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/slaid/slaid1.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\slaid\slaid1.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/slaid/slaid2.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\slaid\slaid2.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/slaid/slaid3.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\slaid\slaid3.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/slaid/slaid4.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\slaid\slaid4.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/slaid/slaid5.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\slaid\slaid5.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/i/slaid/slaid6.png
+File Name: C:\Downloaded Web Sites\kolibrios.org\i\slaid\slaid6.png
+Content Type: image/png
+
+Uri: https://kolibrios.org/it/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/it/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/it/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\it\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/nl/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\nl\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/nl/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\nl\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/nl/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\nl\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/reset.css
+File Name: C:\Downloaded Web Sites\kolibrios.org\reset.css
+Content Type: text/css
+
+Uri: https://kolibrios.org/ru/
+File Name: C:\Downloaded Web Sites\kolibrios.org\ru\index.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/ru/download.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\ru\download.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/ru/index.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\ru\index-1.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/ru/screen.htm
+File Name: C:\Downloaded Web Sites\kolibrios.org\ru\screen.htm
+Content Type: text/html
+
+Uri: https://kolibrios.org/script.js
+File Name: C:\Downloaded Web Sites\kolibrios.org\script.js
+Content Type: text/javascript
+
+Uri: https://kolibrios.org/style.css
+File Name: C:\Downloaded Web Sites\kolibrios.org\style.css
+Content Type: text/css
+
